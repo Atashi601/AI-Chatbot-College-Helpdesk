@@ -1,0 +1,4 @@
+# AI Chatbot (College Helpdesk)
+# This project uses only built-in Python libraries
+
+python>=3.7
